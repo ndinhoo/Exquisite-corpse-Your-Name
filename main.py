@@ -9,3 +9,6 @@ if p1 == "Pierre" and p2 == "Ciseaux":
 
 if p1 == "Ciseaux" and p2 == "Pierre":
     print("CPU won 😂 🫵")
+
+if p1 == "Feuille" and p2 == "Pierre":
+    print("You won ✨")
