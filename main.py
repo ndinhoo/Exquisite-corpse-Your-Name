@@ -13,5 +13,7 @@ if p1 == "Ciseaux" and p2 == "Pierre":
 if p1 == "Feuille" and p2 == "Pierre":
     print("You won ✨")
 
+if p1 == "Pierre" and p2 == "Feuille":
+    print("CPU won 😂 🫵")
 
 # wazaaaaa
