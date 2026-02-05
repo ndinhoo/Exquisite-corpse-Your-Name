@@ -12,3 +12,6 @@ if p1 == "Ciseaux" and p2 == "Pierre":
 
 if p1 == "Feuille" and p2 == "Pierre":
     print("You won ✨")
+
+
+# wazaaaaa
